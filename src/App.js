@@ -22,7 +22,7 @@ function App() {
     const [format, quality] = selectedOption.split('-');
     
     try {
-      const response = await axios.get(`http://localhost:5000/download?url=${url}&format=${format}&quality=${quality}`);
+      const response = await axios.get(`https://youtube-video-downloade.onrender.com/download?url=${url}&format=${format}&quality=${quality}`);
       window.location.href = response.request.responseURL; // Trigger download
       setIsLoading(false); // Set loading to false after download completes
     
