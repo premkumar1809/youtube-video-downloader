@@ -19,7 +19,7 @@ const Footer = () => {
         </p>
         <small>Copyright &copy; YOUTUBE VIDEO DOWNLOADER</small>
     <br/>
-   <img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/728%20x%2090%20px.png" />
+ <a href="https://beta.publishers.adsterra.com/referral/fwc7jaH51h">  <img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/728%20x%2090%20px.png" />
       </div>
     </footer>
   );
