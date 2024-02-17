@@ -101,6 +101,7 @@ function App() {
         <small className=' d-flex justify-content-center'>Downloading YouTube shorts video directly from YouTube is not possible. Our website is a free online tool that allows users to quickly download short videos from YouTube. You can bookmark our website to use it again in the future. Anyways, If You have YouTube short video URL, you can download the video to your device. Our website is very simple to use.</small>
       </div>
       <hr></hr>
+        <a href=""><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/80%20x%2030%20px.png" /></a>
       <Footer />
     </div>
     </div>
