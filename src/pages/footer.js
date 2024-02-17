@@ -17,7 +17,7 @@ const Footer = () => {
             Visit my LinkedIn profile
           </a>
         </p>
-        <small>Copyright &copy; YOUTUBE VIDEO DOWNLOADER</small>
+    <small>Copyright &copy; YOUTUBE VIDEO DOWNLOADER</small>
     <br/>
  <a href="https://beta.publishers.adsterra.com/referral/fwc7jaH51h">  <img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/728%20x%2090%20px.png" /></a>
       </div>
