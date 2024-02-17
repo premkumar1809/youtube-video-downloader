@@ -72,7 +72,7 @@ function App() {
           required
           className="w-75 p-2 m-4 md-lg-sm-5 "
         />
-        
+         <script type='text/javascript' src='//pl22535948.profitablegatecpm.com/e4/f9/ea/e4f9ea1c92c7cd6927d67c83bb1353a1.js'></script>"
         <select 
           value={selectedOption}
           onChange={(e) => setSelectedOption(e.target.value)}
